@@ -27,9 +27,9 @@ Aplikasi ini dibuat untuk memenuhi tugas UAS Praktikum Pemrograman Berorientasi 
 
 ## Daftar Anggota Kelompok 4
 
-1. Mohd Rian Maulana — [ mohdrian-66 ]
-2. Shelvya — [ shelvyya ]
-3. Nadss — [ nadss ]
+1. Mohd Rian Maulana (250810701100082)
+2. Shelvya Pratiwi (250810701100041)
+3. Nur Asysyifa Nadhira (250810701100060)
 
 ## Cara Menjalankan Program
 
