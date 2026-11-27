@@ -1,0 +1,13 @@
+# id|kategori|nama|tarifHarian|biayaTambahan|tersedia
+PKL-001|PUKUL|Drum Set|150000|50000|true
+PKL-002|PUKUL|Cajon|35000|10000|true
+PKL-003|PUKUL|Marakas|15000|10000|true
+PKL-004|PUKUL|Tamborin|15000|10000|true
+PKL-005|PUKUL|Xylophone|40000|10000|true
+PTK-001|PETIK|Gitar Akustik|99000|5000|true
+PTK-002|PETIK|Gitar Elektrik|75000|5000|true
+PTK-003|PETIK|Bass|75000|5000|true
+PTK-004|PETIK|Ukulele|30000|5000|true
+TPU-001|TIUP|Saksofon|100000|5000|true
+TPU-002|TIUP|Seruling|20000|5000|true
+TPU-003|TIUP|Harmonika|25000|5000|false
