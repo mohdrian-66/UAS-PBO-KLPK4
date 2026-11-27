@@ -27,9 +27,9 @@ Aplikasi ini dibuat untuk memenuhi tugas UAS Praktikum Pemrograman Berorientasi 
 
 ## Daftar Anggota Kelompok 4
 
-1. Mohd Rian — [Username GitHub]
-2. Shelvya — [Username GitHub]
-3. Nadss — [Username GitHub]
+1. Mohd Rian Maulana — [ mohdrian-66 ]
+2. Shelvya — [ shelvyya ]
+3. Nadss — [ nadss ]
 
 ## Cara Menjalankan Program
 
